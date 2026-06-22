@@ -1,16 +1,28 @@
-## Hi there 👋
+# Leandro Augusto
 
-<!--
-**leandroaa/leandroaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Empresário e desenvolvedor de software.
+Fundador do Autobig, plataforma SaaS para gestão de lojas de veículos.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- AWS S3
+- Bootstrap
+- React Native
+
+## Projetos
+
+### Autobig
+Sistema online para gestão de estoque, clientes, contratos e vendas para revendas de veículos.
+
+🌐 https://autobig.com.br
+
+### Sistema Privado
+Aplicativo móvel desenvolvido em React Native.
+
+## Contato
+
+🌐 https://autobig.com.br
