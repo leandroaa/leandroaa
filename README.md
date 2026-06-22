@@ -16,7 +16,6 @@ Fundador do Autobig, plataforma SaaS para gestão de lojas de veículos.
 ## Projetos
 
 ### Autobig
-### Autobig
 
 Plataforma SaaS para gestão de lojas de veículos.
 
